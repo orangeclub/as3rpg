@@ -1,0 +1,22 @@
+<projectDescription>
+  <id>1357622938489</id>
+  <name>UnGame</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///C|/Users/DELL/AppData/Local/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///C|/Users/DELL/AppData/Local/Adobe/Flash CS4/zh_CN/Configuration/Project/templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///F|/AS3 Project/UnGame/UnGame.fla</defaultApp>
+  <rootURI>file:///F|/AS3 Project/UnGame/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false">
+    <uri label="UnGame.fla">file:///F|/AS3 Project/UnGame/src/UnGame.fla</uri>
+  </compileList>
+  <recentFiles editable="false">
+    <uri label="expressInstall.swf">file:///F|/AS3 Project/UnGame/bin/expressInstall.swf</uri>
+    <uri label="UnGame.swf">file:///F|/AS3 Project/UnGame/bin/UnGame.swf</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
